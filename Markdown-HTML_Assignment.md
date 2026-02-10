@@ -23,7 +23,7 @@
     </td>
     <td>
       <h2 style="text-align: center;">Anatomical Heart</h2>
-      <p>The heart is located in the chest and is roughly the size of a fist. It is made up of <b>4 chambers</b>: the right atrium, right ventricle, left atrium, left ventricle</p>
+      <p>The <a href="Heart_Photos/">heart</a> is located in the chest and is roughly the size of a fist. It is made up of <b>4 chambers</b>: the right atrium, right ventricle, left atrium, left ventricle</p>
     </td>
   </tr>
 </table>
